@@ -19,3 +19,13 @@ The game ends when:
 2. Run the game using Python 3.x:
    ```bash
    python number_guessing_game.py
+
+## Sample Gameplay
+Welcome to the number guessing Game
+I am thinking of a number between 1 and 100
+Choose a difficulty. Type 'easy' or 'hard: easy
+You have 10 attempts remaining to guess the number
+Make a guess: 50
+Too high
+You have 9 attempts remaining to guess the number
+...
